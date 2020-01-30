@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GameFrameWork2D">
+      <UniqueIdentifier>{4a32bcd1-3bab-464c-acf2-2dd6443e6683}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrameWork2D\Manager">
+      <UniqueIdentifier>{52f10b97-1b65-41df-9676-caf24e52ae45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrameWork2D\image">
+      <UniqueIdentifier>{6500a1d0-5f3b-430f-80fe-250d70fbd3d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrameWork2D\Util">
+      <UniqueIdentifier>{0434aa97-5ed7-444e-8f3f-f1f41c81011f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame">
+      <UniqueIdentifier>{77f969d7-0d0f-483b-826b-2947798fb1c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\슈팅게임">
+      <UniqueIdentifier>{587a136f-542f-4ec6-9a85-12054b39f935}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\지뢰찾기">
+      <UniqueIdentifier>{9f83fdd4-db1f-4f6f-b9a1-c8e27e9c772b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\오목">
+      <UniqueIdentifier>{4c20b8d6-b373-40d6-9612-0bfe607e9330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrameWork2D\Bullet">
+      <UniqueIdentifier>{215fa1c6-e05c-430c-b712-ed689d2df96e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrameWork2D\프로그래스바">
+      <UniqueIdentifier>{35404c9d-ab40-479a-af3d-d2cea2cc1457}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\미니맵">
+      <UniqueIdentifier>{4bcc0239-e98c-4a38-b4ac-5635e0509cfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrameWork2D\timer">
+      <UniqueIdentifier>{b07f1abd-bbbb-48ea-9827-64f4bd19efee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrameWork2D\txtData">
+      <UniqueIdentifier>{d786f524-00dd-4af8-9ce1-3d09c6ca7e96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrameWork2D\iniData">
+      <UniqueIdentifier>{b7280e6f-0d04-43e9-8ba0-ff2e91db2cbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\iniData테스트">
+      <UniqueIdentifier>{98aa9a9a-311f-41ae-8425-83c5da0b02e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\씬매니져테스트">
+      <UniqueIdentifier>{7696ac44-c2bc-4bd4-a749-6e8e0e26f25a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrameWork2D\loading">
+      <UniqueIdentifier>{74870889-cb5c-4f88-8158-15cff5900ede}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\로딩화면">
+      <UniqueIdentifier>{d4445afc-8a3d-4877-b5f3-c061080477ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\사운드테스트">
+      <UniqueIdentifier>{371861a0-140f-48d4-bf89-19c7242625ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrameWork2D\애니메이션">
+      <UniqueIdentifier>{d130e218-a600-495a-9007-eb29bf2fccfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\애니메이션 테스트">
+      <UniqueIdentifier>{f956753a-f6b8-413e-94c5-1474c0a0a087}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrameWork2D\effect">
+      <UniqueIdentifier>{a919b5e8-131a-446d-a5e9-a21b8e3cc419}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\이펙트테스트">
+      <UniqueIdentifier>{1d2b0595-a304-4874-85f8-bbb9781b39f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\픽셀충돌">
+      <UniqueIdentifier>{1b07fadb-d692-4006-bb9a-866cd5c01dfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GDI">
+      <UniqueIdentifier>{bed72d8b-7edf-47c9-ba99-64ec2f591438}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="맵툴">
+      <UniqueIdentifier>{9eeb22ec-fed1-437f-a84c-678b74b674ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="카메라">
+      <UniqueIdentifier>{09f19241-4006-4dd6-b027-5a8feb2dcf58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="이미지데이터">
+      <UniqueIdentifier>{9a8234cd-ce30-459f-b324-93a22f413b76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="프레임렌더계산">
+      <UniqueIdentifier>{8c3149ec-91c7-44ae-bebe-a7af14be522e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map설정">
+      <UniqueIdentifier>{efbabe1e-d4bb-43bc-b3be-08207699487f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map설정\Map1">
+      <UniqueIdentifier>{7b01e668-29df-480d-afb1-df32eaed0582}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map설정\Map2">
+      <UniqueIdentifier>{ef4adcdb-d61d-44e7-9c09-74ba00fca6c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map설정\Map3">
+      <UniqueIdentifier>{b6134832-1482-4946-a63a-52afd18064d1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="commonMacroFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>GameFrameWork2D</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>GameFrameWork2D\image</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>GameFrameWork2D\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="rocket.h">
+      <Filter>MainGame\슈팅게임</Filter>
+    </ClInclude>
+    <ClInclude Include="minesweeper.h">
+      <Filter>MainGame\지뢰찾기</Filter>
+    </ClInclude>
+    <ClInclude Include="omok.h">
+      <Filter>MainGame\오목</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>GameFrameWork2D\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>MainGame\슈팅게임</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyManager.h">
+      <Filter>MainGame\슈팅게임</Filter>
+    </ClInclude>
+    <ClInclude Include="minion.h">
+      <Filter>MainGame\슈팅게임</Filter>
+    </ClInclude>
+    <ClInclude Include="progressBar.h">
+      <Filter>GameFrameWork2D\프로그래스바</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>MainGame\미니맵</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>GameFrameWork2D\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="timeManager.h">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="txtData.h">
+      <Filter>GameFrameWork2D\txtData</Filter>
+    </ClInclude>
+    <ClInclude Include="iniData.h">
+      <Filter>GameFrameWork2D\iniData</Filter>
+    </ClInclude>
+    <ClInclude Include="iniDataTest.h">
+      <Filter>MainGame\iniData테스트</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneManager.h">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="scene2.h">
+      <Filter>MainGame\씬매니져테스트</Filter>
+    </ClInclude>
+    <ClInclude Include="scene1.h">
+      <Filter>MainGame\씬매니져테스트</Filter>
+    </ClInclude>
+    <ClInclude Include="loading.h">
+      <Filter>GameFrameWork2D\loading</Filter>
+    </ClInclude>
+    <ClInclude Include="loadingScene.h">
+      <Filter>MainGame\로딩화면</Filter>
+    </ClInclude>
+    <ClInclude Include="soundManager.h">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="soundTest.h">
+      <Filter>MainGame\사운드테스트</Filter>
+    </ClInclude>
+    <ClInclude Include="animation.h">
+      <Filter>GameFrameWork2D\애니메이션</Filter>
+    </ClInclude>
+    <ClInclude Include="camel.h">
+      <Filter>MainGame\애니메이션 테스트</Filter>
+    </ClInclude>
+    <ClInclude Include="aniTestScene.h">
+      <Filter>MainGame\애니메이션 테스트</Filter>
+    </ClInclude>
+    <ClInclude Include="effect.h">
+      <Filter>GameFrameWork2D\effect</Filter>
+    </ClInclude>
+    <ClInclude Include="effectTest.h">
+      <Filter>MainGame\이펙트테스트</Filter>
+    </ClInclude>
+    <ClInclude Include="effectManager.h">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="animationManager.h">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="pixelCollisionScene.h">
+      <Filter>MainGame\픽셀충돌</Filter>
+    </ClInclude>
+    <ClInclude Include="gdipManager.h">
+      <Filter>GDI</Filter>
+    </ClInclude>
+    <ClInclude Include="Maptool.h">
+      <Filter>맵툴</Filter>
+    </ClInclude>
+    <ClInclude Include="mainGame.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Rcdata.h">
+      <Filter>맵툴</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>카메라</Filter>
+    </ClInclude>
+    <ClInclude Include="Pagedata.h">
+      <Filter>맵툴</Filter>
+    </ClInclude>
+    <ClInclude Include="imgData.h">
+      <Filter>이미지데이터</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameRender.h">
+      <Filter>프레임렌더계산</Filter>
+    </ClInclude>
+    <ClInclude Include="MapControl.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>GameFrameWork2D</Filter>
+    </ClCompile>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>GameFrameWork2D\image</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>GameFrameWork2D\Util</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="mainGame.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="rocket.cpp">
+      <Filter>MainGame\슈팅게임</Filter>
+    </ClCompile>
+    <ClCompile Include="minesweeper.cpp">
+      <Filter>MainGame\지뢰찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="omok.cpp">
+      <Filter>MainGame\오목</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.cpp">
+      <Filter>GameFrameWork2D\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>MainGame\슈팅게임</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyManager.cpp">
+      <Filter>MainGame\슈팅게임</Filter>
+    </ClCompile>
+    <ClCompile Include="minion.cpp">
+      <Filter>MainGame\슈팅게임</Filter>
+    </ClCompile>
+    <ClCompile Include="progressBar.cpp">
+      <Filter>GameFrameWork2D\프로그래스바</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>MainGame\미니맵</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>GameFrameWork2D\timer</Filter>
+    </ClCompile>
+    <ClCompile Include="timeManager.cpp">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="txtData.cpp">
+      <Filter>GameFrameWork2D\txtData</Filter>
+    </ClCompile>
+    <ClCompile Include="iniData.cpp">
+      <Filter>GameFrameWork2D\iniData</Filter>
+    </ClCompile>
+    <ClCompile Include="iniDataTest.cpp">
+      <Filter>MainGame\iniData테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneManager.cpp">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="scene2.cpp">
+      <Filter>MainGame\씬매니져테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="scene1.cpp">
+      <Filter>MainGame\씬매니져테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="loading.cpp">
+      <Filter>GameFrameWork2D\loading</Filter>
+    </ClCompile>
+    <ClCompile Include="loadingScene.cpp">
+      <Filter>MainGame\로딩화면</Filter>
+    </ClCompile>
+    <ClCompile Include="soundManager.cpp">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="soundTest.cpp">
+      <Filter>MainGame\사운드테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="animation.cpp">
+      <Filter>GameFrameWork2D\애니메이션</Filter>
+    </ClCompile>
+    <ClCompile Include="camel.cpp">
+      <Filter>MainGame\애니메이션 테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="aniTestScene.cpp">
+      <Filter>MainGame\애니메이션 테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.cpp">
+      <Filter>GameFrameWork2D\effect</Filter>
+    </ClCompile>
+    <ClCompile Include="effectTest.cpp">
+      <Filter>MainGame\이펙트테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="effectManager.cpp">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="animationManager.cpp">
+      <Filter>GameFrameWork2D\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="pixelCollisionScene.cpp">
+      <Filter>MainGame\픽셀충돌</Filter>
+    </ClCompile>
+    <ClCompile Include="gdipManager.cpp">
+      <Filter>GDI</Filter>
+    </ClCompile>
+    <ClCompile Include="Rcdata.cpp">
+      <Filter>맵툴</Filter>
+    </ClCompile>
+    <ClCompile Include="Maptool.cpp">
+      <Filter>맵툴</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>카메라</Filter>
+    </ClCompile>
+    <ClCompile Include="Pagedata.cpp">
+      <Filter>맵툴</Filter>
+    </ClCompile>
+    <ClCompile Include="imgData.cpp">
+      <Filter>이미지데이터</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameRender.cpp">
+      <Filter>프레임렌더계산</Filter>
+    </ClCompile>
+    <ClCompile Include="MapControl.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

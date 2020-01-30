@@ -1,0 +1,204 @@
+﻿  stdafx.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\image.h(137,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\image.h(137,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  animation.cpp
+  animationManager.cpp
+  aniTestScene.cpp
+  bullet.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(35,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(45,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(45,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(59,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(59,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(121,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(121,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(137,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(137,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(195,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(204,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(204,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(217,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\bullet.cpp(217,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  camel.cpp
+  Camera.cpp
+  effect.cpp
+  effectManager.cpp
+  effectTest.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\effectTest.cpp(28,95): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  enemy.cpp
+  enemyManager.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\enemyManager.cpp(80,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\enemyManager.cpp(80,22): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\enemyManager.cpp(79,64): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\enemyManager.cpp(79,26): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\enemyManager.cpp(97,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  FrameRender.cpp
+  gameNode.cpp
+  gdipManager.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\gdipManager.cpp(127,39): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\gdipManager.cpp(127,32): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\gdipManager.cpp(243,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\gdipManager.cpp(243,12): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\gdipManager.cpp(263,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\gdipManager.cpp(263,12): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\gdipManager.cpp(282,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\gdipManager.cpp(282,12): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\gdipManager.cpp(301,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\gdipManager.cpp(301,12): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  image.cpp
+  imageManager.cpp
+  imgData.cpp
+  iniData.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\iniData.cpp(43,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\iniData.cpp(38,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\iniData.cpp(41,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 'strcat' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\iniData.cpp(63,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\iniData.cpp(66,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 'strcat' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\iniData.cpp(87,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\iniData.cpp(90,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 'strcat' 선언을 참조하십시오.
+  iniDataTest.cpp
+  keyManager.cpp
+  코드를 생성하고 있습니다...
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\iniData.cpp(78): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  loading.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\loading.cpp(44,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\loading.cpp(45,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\loading.cpp(82,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\loading.cpp(83,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\loading.cpp(170,21): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\loading.cpp(190,61): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\loading.cpp(190,55): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\loading.cpp(198,66): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\loading.cpp(198,60): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\loading.cpp(207,57): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\loading.cpp(207,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  loadingScene.cpp
+  mainGame.cpp
+  MapControl.cpp
+  Maptool.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(104,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(107,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(110,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(151,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(153,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(166,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 'strcat' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(186,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 'strcat' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(205,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(207,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(233,55): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(234,54): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(235,50): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(236,49): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(394,134): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(394,101): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(396,137): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(396,104): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(402,177): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(402,144): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(404,180): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\Maptool.cpp(404,147): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  minesweeper.cpp
+  minion.cpp
+  omok.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(25,27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(26,27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(27,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(27,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(173,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(173,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(174,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(174,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(175,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(175,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(176,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\omok.cpp(176,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Pagedata.cpp
+  pixelCollisionScene.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\pixelCollisionScene.cpp(20,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\pixelCollisionScene.cpp(20,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\pixelCollisionScene.cpp(23,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\pixelCollisionScene.cpp(44,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\pixelCollisionScene.cpp(49,73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\pixelCollisionScene.cpp(58,12): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\pixelCollisionScene.cpp(62,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\pixelCollisionScene.cpp(62,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\pixelCollisionScene.cpp(75,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\pixelCollisionScene.cpp(75,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  player.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\player.cpp(121,6): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\player.cpp(120,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\player.cpp(127,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\player.cpp(126,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  progressBar.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\progressBar.cpp(15,7): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\progressBar.cpp(16,7): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\progressBar.cpp(19,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\progressBar.cpp(19,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\progressBar.cpp(58,37): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Rcdata.cpp
+  rocket.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(76,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(77,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(86,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(87,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(88,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(89,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(98,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(100,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(101,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(86,1): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message : 'itoa' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(87,1): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message : 'itoa' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(88,1): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message : 'itoa' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(89,1): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message : 'itoa' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(109,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(109,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(124,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\rocket.cpp(126,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  scene1.cpp
+  scene2.cpp
+  sceneManager.cpp
+  soundManager.cpp
+  soundTest.cpp
+  timeManager.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\timeManager.cpp(49,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\timeManager.cpp(53,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\timeManager.cpp(57,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  timer.cpp
+  txtData.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\txtData.cpp(43,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\txtData.cpp(46,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\txtData.cpp(48,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 'strcat' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\txtData.cpp(78,1): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message : 'strtok' 선언을 참조하십시오.
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\txtData.cpp(81,1): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message : 'strtok' 선언을 참조하십시오.
+  util.cpp
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\util.cpp(18,34): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  WinMain.cpp
+  코드를 생성하고 있습니다...
+C:\Users\Root\Desktop\1달포폴\170310_winAPI\txtData.cpp(51): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  170310_winAPI.vcxproj -> C:\Users\Root\Desktop\1달포폴\Debug\170310_winAPI.exe
